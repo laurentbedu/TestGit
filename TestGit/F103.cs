@@ -1,12 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace TestGit
+﻿namespace TestGit
 {
     internal class F103
     {
+        public double test;
     }
 }
