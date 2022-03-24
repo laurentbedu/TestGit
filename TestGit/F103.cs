@@ -2,6 +2,8 @@
 {
     internal class F103
     {
-        public double test;
+
+        public int test;
+
     }
 }
